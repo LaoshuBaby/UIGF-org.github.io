@@ -7,7 +7,7 @@ head:
       content: 原神, 抽卡, 抽卡记录, UIGF
 ---
 
-# 统一可交换抽卡记录标准 v3.0
+# 统一可交换抽卡记录标准 v4.0
 > Uniformed Interchangeable GachaLog Format standard (UIGF) v3.0 <Badge text="Current" type="message" />
 > 
 ::: warning UIGF 标准使用声明
@@ -15,6 +15,8 @@ head:
 
 仅包含导入或导出功能降低了用户数据可流通性，且将数据置于用户不可控的风险中，不符合 UIGF-Org 设计的初衷。
 :::
+
+关于为什么会有4.0的一些杂谈和技术设想
 
 ## 更新记录
 | 版本                            | 说明                                      | 兼容             |
